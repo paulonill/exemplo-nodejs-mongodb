@@ -1,4 +1,4 @@
-#Projeto exemplo utilizando NodeJS com MongoDB
+##Projeto exemplo utilizando NodeJS com MongoDB
 
 ### Requerimentos/Conhecimentos e Tecnologias utilizadas
 
@@ -8,7 +8,6 @@
     (Fonte: https://www.mongodb.com/)
 * Express   
     (Fonte: https://expressjs.com/)
-* 
 
 ### Instalação das dependencias:
 #
